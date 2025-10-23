@@ -1,13 +1,12 @@
 ---
-title: Welcome to Quartz
+title: Herzlich Wilkommen auf Luis Blog
 ---
-Teständerung
-
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+In diesem Blog teile ich einige interessante Rechercheergebnisse und sonstiges.
 
 ---
-This is to test the setup
 
----
+
+Für den Blog nutze ich ein Setup aus Obsidian, in dem ich den Blog schreibe, Quartz ([documentation](https://quartz.jzhao.xyz) and github pages to host the website.
+
+
+
